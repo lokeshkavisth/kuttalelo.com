@@ -1,0 +1,517 @@
+@media only screen and (max-width:1440px) and (min-width:1024px) {
+  .navCenter {
+    max-width: 100%;
+  }
+
+  .dogs-pros {
+    width: 40%;
+  }
+
+  .about-dogs-one {
+    width: 40%;
+  }
+
+  .about-owners {
+    width: 95%;
+  }
+
+  .psychology-text {
+    width: 45%;
+  }
+
+  .services-main {
+    width: 90%;
+  }
+
+  .service-text {
+    width: 90%;
+  }
+
+  .contact-form {
+    width: 95%;
+  }
+}
+
+@media only screen and (max-width:1024px) and (min-width:768px) {
+  .navCenter {
+    max-width: 100%;
+  }
+
+  .about h1 {
+    font-size: 2.5em;
+  }
+
+  .about {
+    padding: 0 45px;
+    text-align: center;
+  }
+
+  .about-image {
+    width: 25%;
+  }
+
+  .dogs-pros h1 {
+    font-size: 2em;
+  }
+
+  .dogs-pros {
+    width: 50%;
+  }
+
+  .about-dogs p {
+    font-size: 1em;
+  }
+
+  .dogs-pros ul {
+    font-size: 1em;
+  }
+
+  .dog-images img {
+    padding: 25px 15px;
+  }
+
+  .about-dogs-one {
+    width: 40%;
+    padding: 20px;
+  }
+
+  .about-owners {
+    width: 85%;
+  }
+
+  .owner-text h1 {
+    font-size: 1.5em;
+  }
+
+  .psychology-about-dogs {
+    width: 95%;
+  }
+
+  .psychology-text {
+    padding: 10px 35px;
+    width: 45%;
+  }
+
+  .psychology-text h4 {
+    font-size: 1em;
+  }
+
+  .psychology-text h1 {
+    font-size: 1.5em;
+  }
+
+  .services-main {
+    width: 100%;
+  }
+
+  .service-artical {
+    width: 95%;
+  }
+
+  .service-text {
+    width: 89%;
+  }
+
+  .form-text {
+    font-size: 1em;
+  }
+
+  .contact-us {
+    padding: 0;
+  }
+
+  .contact-form {
+    width: 100%;
+  }
+
+  .contact-main {
+    width: 45%;
+  }
+
+  .form-details {
+    width: 45%;
+  }
+
+  .form-details input,
+  textarea {
+    margin: 5px 0;
+    padding: 11px;
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width:768px) and (min-width:375px) {
+  .navbar {
+    flex-direction: column;
+    position: static;
+  }
+
+  .navCenter {
+    width: 100%;
+  }
+
+  .logo {
+    width: 15%;
+  }
+
+  .navCenter ul {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navCenter ul li {
+    margin: 0;
+    padding: 5px 0;
+  }
+
+  .about {
+    padding: 0 25px;
+    text-align: center;
+  }
+
+  .about h1 {
+    font-size: 1.5em;
+  }
+
+  .about-image {
+    width: 22%;
+  }
+
+  .dogs-pros h1 {
+    font-size: 1.5em;
+  }
+
+  .about-dogs-one h1 {
+    font-size: 1em;
+  }
+
+  .about-dogs-main {
+    flex-direction: column;
+  }
+
+  .dogs-pros {
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+
+  }
+
+  .about-dogs-one {
+    width: 90%;
+    padding: 25px 15px;
+  }
+
+  .petlist-main {
+    margin: 10px 0;
+  }
+
+  .petlist-items input {
+    padding: 15px 35px;
+  }
+
+  .dog-images img {
+    padding: 5px 10px;
+  }
+
+  .owner-text h1 {
+    font-size: 1em;
+  }
+
+  .about-owners {
+    width: 100%;
+  }
+
+  .psychology-dogs-image {
+    width: 60%;
+  }
+
+  .psychology-text h4 {
+    font-size: 0.8em;
+    color: #917575;
+  }
+
+  .psychology-text h1 {
+    font-size: 1em;
+  }
+
+  .psychology-about-dogs {
+    flex-direction: column;
+  }
+
+  .psychology-text {
+    padding: 5px 20px;
+    width: 95%;
+  }
+
+  .services-main {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .services-main div {
+    width: 80%;
+  }
+
+  .service-artical {
+    width: 100%;
+    align-items: center;
+  }
+
+  .service-text {
+    width: 80%;
+    font-size: 1em;
+    padding: 10px 18px;
+  }
+
+  .contact-form {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .form-text {
+    font-size: 1em;
+  }
+
+  .contact-main {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .form-details {
+    width: 90%;
+  }
+
+  .form-details input,
+  textarea {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .contact-us {
+    padding: 0;
+  }
+
+  footer {
+    padding: 0;
+  }
+
+  .footer img {
+    width: 15%;
+  }
+
+  .footer-socials ul li i {
+    font-size: 14px;
+    padding: 7px;
+  }
+}
+
+@media only screen and (max-width:375px) and (min-width:320px) {
+  .navbar {
+    flex-direction: column;
+    position: static;
+  }
+
+  .navCenter {
+    width: 100%;
+  }
+
+  .logo {
+    width: 15%;
+  }
+
+  .navCenter ul {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navCenter ul li {
+    margin: 0;
+    padding: 5px 0;
+  }
+
+  .about {
+    padding: 0 25px;
+    text-align: center;
+  }
+
+  .about-dogs {
+    margin: 40px 0;
+    padding: 0;
+  }
+
+  .about h1 {
+    font-size: 1.5em;
+  }
+
+  .about-image {
+    width: 22%;
+  }
+
+  .dogs-pros h1 {
+    font-size: 1.5em;
+  }
+
+  .about-dogs-one h1 {
+    font-size: 1em;
+  }
+
+  .about-dogs-main {
+    flex-direction: column;
+  }
+
+  .dogs-pros {
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+
+  }
+
+  .about-dogs-one {
+    width: 90%;
+    padding: 25px 15px;
+  }
+
+  .petlist-main {
+    margin: 10px 0;
+  }
+
+  .petlist-items {
+    font-size: 1em;
+  }
+
+  .petlist-items select {
+    font-size: 1em;
+  }
+
+  .petlist-items input {
+    padding: 10px 15px;
+    margin: 0;
+  }
+
+  .more-pets button {
+    padding: 10px 25px;
+  }
+
+  .more-images button {
+    padding: 10px 25px;
+    margin-bottom: 0;
+  }
+
+  .dog-images img {
+    padding: 5px 10px;
+  }
+
+  .owner-text h1 {
+    font-size: 1em;
+  }
+
+  .owner-text p {
+    font-size: 13px;
+  }
+
+  .owner-text h3 {
+    font-size: 1em;
+  }
+
+  .about-owners {
+    width: 100%;
+  }
+
+  .psychology-dogs-image {
+    width: 60%;
+  }
+
+  .psychology-text h4 {
+    font-size: 0.8em;
+    color: #917575;
+  }
+
+  .psychology-text h1 {
+    font-size: 1em;
+  }
+
+  .psychology-about-dogs {
+    flex-direction: column;
+  }
+
+  .psychology-text {
+    padding: 5px 20px;
+    width: 95%;
+  }
+
+  .services-main {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .services-main div {
+    width: 80%;
+  }
+
+  .service-artical {
+    width: 100%;
+    align-items: center;
+  }
+
+  .service-text {
+    width: 80%;
+    font-size: 1em;
+    padding: 10px 18px;
+  }
+
+  .contact-form {
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .form-text {
+    font-size: 1em;
+  }
+
+  .contact-main {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+  }
+
+  .form-details {
+    width: 90%;
+  }
+
+  .form-details input,
+  textarea {
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  .contact-us {
+    padding: 0;
+  }
+
+  footer {
+    padding: 0;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 12px;
+  }
+
+  .footer img {
+    width: 15%;
+  }
+
+  .footer-socials ul li i {
+    font-size: 14px;
+    padding: 7px;
+  }
+}

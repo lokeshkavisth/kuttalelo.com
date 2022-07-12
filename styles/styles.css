@@ -1,13 +1,16 @@
 /* fonts from google  */
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400;500;700;800;900&display=swap');
 
-body {
-
+body,
+html {
+  scroll-behavior: smooth;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: 'Jost', sans-serif;
 }
+
+
 
 button {
   cursor: pointer;
@@ -61,6 +64,10 @@ li {
   flex-direction: row;
   padding: 0;
 
+}
+
+.navCenter ul img {
+  display: none;
 }
 
 .navCenter ul li {
